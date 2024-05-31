@@ -27,7 +27,7 @@ TeckyBot is a web-based application built using Python and Streamlit framework. 
 Clone the repository:
 
 ```bash
-git clone https://github.com/saikumaradapa/TeckyBot.git](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI)](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI.git
+git clone https://github.com/saikumaradapa/TeckyBot.git
 ```
 
 ## Dependencies:
