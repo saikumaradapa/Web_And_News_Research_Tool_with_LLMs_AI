@@ -32,8 +32,8 @@ git clone https://github.com/saikumaradapa/TeckyBot.git](https://github.com/saik
 
 ## Dependencies:
 
---> requests: For fetching web content.
---> BeautifulSoup: For HTML parsing.
---> Streamlit: For building the web interface.
---> langchain: For natural language processing tasks such as embeddings, text splitting, and question answering.
---> dotenv: For loading environment variables.
+--> requests: For fetching web content. <br>
+--> BeautifulSoup: For HTML parsing.<br>
+--> Streamlit: For building the web interface.<br>
+--> langchain: For natural language processing tasks such as embeddings, text splitting, and question answering.<br>
+--> dotenv: For loading environment variables.<br>
