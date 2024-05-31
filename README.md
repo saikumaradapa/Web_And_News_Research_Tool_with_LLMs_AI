@@ -24,15 +24,16 @@ TeckyBot is a web-based application built using Python and Streamlit framework. 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
-git clone [[https://github.com/saikumaradapa/TeckyBot.git](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI)](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI.git)
+git clone https://github.com/saikumaradapa/TeckyBot.git](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI)](https://github.com/saikumaradapa/Web_And_News_Research_Tool_with_LLMs_AI.git
 ```
 
-Dependencies
-requests: For fetching web content.
-BeautifulSoup: For HTML parsing.
-Streamlit: For building the web interface.
-langchain: For natural language processing tasks such as embeddings, text splitting, and question answering.
-dotenv: For loading environment variables.
+## Dependencies:
+
+--> requests: For fetching web content.
+--> BeautifulSoup: For HTML parsing.
+--> Streamlit: For building the web interface.
+--> langchain: For natural language processing tasks such as embeddings, text splitting, and question answering.
+--> dotenv: For loading environment variables.
